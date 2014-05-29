@@ -1,8 +1,18 @@
 crackme
 =======
 
-Binaries to train reverse engineering
+binaries to train reverse engineering
 
-## software
+# how to
 
-It is advised to use toolkits such as [radare2](http://radare.org) or similar to complete these competitions.
++ clone the git repository `git clone https://github.com/XORcists/crackme.git`
++ start the first level by invoking `./0x00`
+
+## recommended software
+
++ [radare2](http://www.radare.org)
++ [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
++ [Hexdump](http://linux.about.com/library/cmd/blcmdl1_hexdump.htmltop)
++ [Intel Assembler 80x86 Code Table](http://www.jegerlehner.ch/intel/index_de.html)
++ [Intel Introduction to x64-Assembly](https://software.intel.com/en-us/articles/introduction-to-x64-assembly)
+
