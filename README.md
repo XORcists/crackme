@@ -3,9 +3,10 @@ crackme
 
 binaries to train reverse engineering
 
-# how to
+## how to
 
 + clone the git repository `git clone https://github.com/XORcists/crackme.git`
++ make binary executable: `chmod +x`
 + start the first level by invoking `./0x00`
 
 ## recommended software
